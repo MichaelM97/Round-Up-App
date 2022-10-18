@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="week_spinner_title">Weeks</string>
+    <string name="week_spinner_option">%1s - %2s</string>
+    <string name="round_up_button">Round Up</string>
+    <string name="round_up_button_amount">Round Up (%1s)</string>
+    <string name="inbound_transaction_amount">+%1s</string>
+    <string name="outbound_transaction_amount">%1s</string>
+    <string name="empty_transactions_list">There are no transactions for the selected week</string>
+    <string name="get_transactions_error">Error when fetching transactions</string>
+    <string name="round_up_success">Funds successfully added to Round Up savings goal</string>
+    <string name="round_up_error">Error adding funds to Round Up savings goal</string>
+</resources>
